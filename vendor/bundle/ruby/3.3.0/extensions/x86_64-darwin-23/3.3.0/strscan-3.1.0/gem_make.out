@@ -1,0 +1,20 @@
+current directory: /Users/chris/Practice/Ruby/hartl/hello/vendor/bundle/ruby/3.3.0/gems/strscan-3.1.0/ext/strscan
+/Users/chris/.rbenv/versions/3.3.1/bin/ruby extconf.rb
+checking for onig_region_memsize() in ruby.h... yes
+checking for rb_reg_onig_match() in ruby.h... yes
+creating Makefile
+
+current directory: /Users/chris/Practice/Ruby/hartl/hello/vendor/bundle/ruby/3.3.0/gems/strscan-3.1.0/ext/strscan
+make DESTDIR\= sitearchdir\=./.gem.20240520-11850-im22ge sitelibdir\=./.gem.20240520-11850-im22ge clean
+
+current directory: /Users/chris/Practice/Ruby/hartl/hello/vendor/bundle/ruby/3.3.0/gems/strscan-3.1.0/ext/strscan
+make DESTDIR\= sitearchdir\=./.gem.20240520-11850-im22ge sitelibdir\=./.gem.20240520-11850-im22ge
+compiling strscan.c
+linking shared-object strscan.bundle
+
+current directory: /Users/chris/Practice/Ruby/hartl/hello/vendor/bundle/ruby/3.3.0/gems/strscan-3.1.0/ext/strscan
+make DESTDIR\= sitearchdir\=./.gem.20240520-11850-im22ge sitelibdir\=./.gem.20240520-11850-im22ge install
+/usr/local/bin/ginstall -c -m 0755 strscan.bundle ./.gem.20240520-11850-im22ge
+
+current directory: /Users/chris/Practice/Ruby/hartl/hello/vendor/bundle/ruby/3.3.0/gems/strscan-3.1.0/ext/strscan
+make DESTDIR\= sitearchdir\=./.gem.20240520-11850-im22ge sitelibdir\=./.gem.20240520-11850-im22ge clean

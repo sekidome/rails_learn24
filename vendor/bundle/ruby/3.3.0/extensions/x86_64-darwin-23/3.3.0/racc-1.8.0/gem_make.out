@@ -1,0 +1,18 @@
+current directory: /Users/chris/Practice/Ruby/hartl/hello/vendor/bundle/ruby/3.3.0/gems/racc-1.8.0/ext/racc/cparse
+/Users/chris/.rbenv/versions/3.3.1/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /Users/chris/Practice/Ruby/hartl/hello/vendor/bundle/ruby/3.3.0/gems/racc-1.8.0/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20240520-11850-bmtvjs sitelibdir\=./.gem.20240520-11850-bmtvjs clean
+
+current directory: /Users/chris/Practice/Ruby/hartl/hello/vendor/bundle/ruby/3.3.0/gems/racc-1.8.0/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20240520-11850-bmtvjs sitelibdir\=./.gem.20240520-11850-bmtvjs
+compiling cparse.c
+linking shared-object racc/cparse.bundle
+
+current directory: /Users/chris/Practice/Ruby/hartl/hello/vendor/bundle/ruby/3.3.0/gems/racc-1.8.0/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20240520-11850-bmtvjs sitelibdir\=./.gem.20240520-11850-bmtvjs install
+/usr/local/bin/ginstall -c -m 0755 cparse.bundle ./.gem.20240520-11850-bmtvjs/racc
+
+current directory: /Users/chris/Practice/Ruby/hartl/hello/vendor/bundle/ruby/3.3.0/gems/racc-1.8.0/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20240520-11850-bmtvjs sitelibdir\=./.gem.20240520-11850-bmtvjs clean
